@@ -103,3 +103,5 @@ An exploit attempt has been made.
 
 If your application is protected, then you should
   shortly see the warning on [your Snyk dashboard](https://app.snyk.io/).
+
+
